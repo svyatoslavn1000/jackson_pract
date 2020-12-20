@@ -1,0 +1,8 @@
+{
+  "CATEGORY_NAME" : "Science",
+  "countBook" : 3,
+  "books" : [ {
+    "name" : "Book"
+  } ],
+  "CATEGORY_ID" : 123
+}
